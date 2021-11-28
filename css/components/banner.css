@@ -1,0 +1,21 @@
+.banner {
+        background-image:  url(../../images/studiobannière.png);
+        background-size: cover;
+        background-position: top;
+        padding: 110px; 
+}
+
+.banner h1 {
+        front-size: 48px;
+        color: white;
+}
+
+.banner p{
+        front-size : 26px;
+        color: white;
+        opacity: 0.8;
+}
+
+.banner.button-blue {
+        margin-top: 20px;
+}
